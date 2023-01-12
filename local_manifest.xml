@@ -6,4 +6,5 @@
  <project path="vendor/oneplus/holi" name="Oneplus-nord-ce-2-lite/vendor_oneplus_holi.git" remote="github" revision="main" />
  <project path="kernel/oneplus/sm6375" name="Oneplus-nord-ce-2-lite/android_kernel_oneplus_sm6375.git" remote="github" revision="main" />
  <project path="hardware/oneplus" name="PixelExperience/hardware_oneplus.git" remote="github" revision="main" />
+ <project path="device/oneplus/sm6375-common" name="Oneplus-nord-ce-2-lite/android_device_oneplus-sm6375-common.git" remote="GitHub" revision="main" />
 </manifest>
