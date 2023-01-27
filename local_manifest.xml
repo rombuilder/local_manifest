@@ -11,6 +11,6 @@
  <project path="kernel/oneplus/sm6375" name="Oneplus-nord-ce-2-lite/android_kernel_oneplus_sm6375.git" remote="github" revision="main" />
  <project path="hardware/oneplus" name="phhgsi/hardware_oplus.git" remote="github" revision="main" />
  <project path="device/oneplus/sm6375-common" name="rombuilder/android_device_oneplus-sm6375-common.git" remote="GitHub" revision="main" />
- <project path="prebuilts/clang/host/linux-x86/clang-r450784d" name="clang-r450784d" remote="clang" revision="master" clone-depth="1" />
+
 
 </manifest>
